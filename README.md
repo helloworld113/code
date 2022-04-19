@@ -1,2 +1,1 @@
-# k8s
-k8s学习
+code from blog
